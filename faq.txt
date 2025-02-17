@@ -1,0 +1,126 @@
+**Q: "How do I enable automatic updates?"**  
+A: "*Android*  
+SEMPRE JBS was developed to provide faster information and convenience in your daily life. Therefore, when updates are available, you don’t need to worry about checking for the new version. The app will notify you about the new version and direct you to the Google Play Store. It’s easy and quick. Don’t worry 😊  
+
+*iOS*  
+If you want your phone to automatically update to the latest versions, simply:  
+1. Go to “Settings”;  
+2. Click on “Apple Store”;  
+3. Select the “Automatic Updates” option."  
+
+---
+
+**Q: "How do I install Sempre JBS?"**  
+A: "*Android*  
+Here is the link to install on Android: [https://play.google.com/store/apps/details?id=br.com.jbs.rh.comvoce&hl=pt_BR&gl=US](https://play.google.com/store/apps/details?id=br.com.jbs.rh.comvoce&hl=pt_BR&gl=US)  
+
+*iOS*  
+Here is the link to install on iOS: [botm.cc/l/8eQNDoj](botm.cc/l/8eQNDoj)"  
+
+---
+
+**Q: "I want to update my app. How do I do that?"**  
+A: "*Android*  
+To check if there are any pending updates for your app on an Android device, visit the link:  
+
+[https://play.google.com/store/apps/details?id=br.com.jbs.rh.comvoce&hl=pt_BR](https://play.google.com/store/apps/details?id=br.com.jbs.rh.comvoce&hl=pt_BR)  
+
+If you see the "Update" button, click on it.  
+
+If it says "Open", your app is already up-to-date and ready to use! 😀  
+
+*iOS*  
+To update your app on an iOS device, follow these steps:  
+1. Go to the Apple Store;  
+2. Click on your profile picture in the top right corner;  
+3. Find the SEMPRE JBS app available for update.  
+
+Done! Now just click on “Update” to stay connected and follow all the news."  
+
+---
+
+**Q: "I forgot my login and password. What should I do?"**  
+A: "There are two ways to log in:  
+
+*CPF (Tax ID)*  
+If you want to log in using your CPF, remember that on your first access, you need to set a personal password by clicking on “First Access.” You will be asked security questions before setting a password. If you forget your password later, you will need to answer the same security questions to reset it.  
+
+*Network User*  
+If you wish to log in using your network user, remember that you must enter your network login and password (the same one you use to access JBS computers).  
+
+Please make sure you are entering the correct login and password. If you don’t remember your network password, don’t worry! You can reset it through the GCA, available on the intranet."  
+
+---
+
+**Q: "I forgot my login and password when using CPF. What should I do?"**  
+A: "If you want to log in using CPF, remember that on your first access, you need to set a personal password by clicking on “First Access.” You will be asked security questions before setting a password. If you forget it later, you will need to answer the same security questions to reset it."  
+
+---
+
+**Q: "I forgot my login and password when using the network user. What should I do?"**  
+A: "If you wish to log in using your network user, remember that you must enter your network login and password (the same one you use to access JBS computers)."  
+
+---
+
+**Q: "I forgot my security questions. What should I do?"**  
+A: "Don’t worry! You need to contact your unit's HR to clear your access data. After that, you can perform the first access again, setting a new password and new security questions."  
+
+---
+
+**Q: "How do I recover my password?"**  
+A: "Don’t worry, it’s super easy!  
+
+When you first accessed the app, you registered a password and some security questions. To recover your password, simply click on “Forgot my password” on the main page and answer the security questions you set during your first access. Done! Now just set a new password.  
+
+But if you forgot your security questions, just ask your HR unit to clear your data so you can perform the first access again and set a new password."  
+
+---
+
+**Q: "My token isn’t working. What should I do?"**  
+A: "This issue can occur due to a few reasons:  
+- The collaborator's phone time is set manually, affecting the token in the app. To check, open settings and look for Date and Time, ensure it’s set to automatic (must be synchronized with Brasília time);  
+- The collaborator's internet connection is weak. Check or try connecting to another network;  
+- The collaborator is on or recently returned from vacation (employees on vacation cannot access SEMPRE EDUCA)."  
+
+---
+
+**Q: "How do I perform the first access on the app?"**  
+A: "If it’s your first access and you don’t have a network login, don’t worry! You can easily set a password by clicking on “First Access.” After that, every time you log in, just enter your CPF and the password you created.  
+
+Attention! If you forget your access password in the future, you can recover it with the security questions, so answer truthfully or in a way that you can easily remember."  
+
+---
+
+**Q: "I was locked out while trying to log in to the Sempre JBS app. What should I do?"**  
+A: "If you are using a network login, wait 30 minutes and try logging in again. If you don’t remember your password, contact your local IT for guidance.  
+
+If you are logging in with CPF, wait 30 minutes, uninstall the app, and reinstall it from the Play Store or using the QR codes attached. After installation, contact your unit's HR to request the clearing of your metadata, allowing you to perform the first access again. Successfully accessing will either confirm a network login or present 5 questions to create your app access password."  
+
+---
+
+**Q: "I'm getting error 203. How do I solve it?"**  
+A: "When error 203 appears, follow these steps:  
+- Uninstall and reinstall the app;  
+- Upon opening, click on “First Access” and enter your CPF and registration number.  
+
+If the error persists, contact your unit's HR."  
+
+---
+
+**Q: "How do I resolve error 202?"**  
+A: "Error 202 is related to authentication in JBS's data system, meaning there was a failure during the process. Please try again after 24 hours."  
+
+---
+
+**Q: "What is network login?"**  
+A: "Network login is used to access company systems, such as Citrix and computer access, usually used by corporate employees."  
+
+---
+
+**Q: "How do I find out my login?"**  
+A: "If you don’t remember your network login, contact your unit's HR to retrieve it."  
+
+---
+
+**Q: "Who is responsible for scheduling my vacation?"**  
+A: "Only employees using network login can schedule their own vacation. Otherwise, HR and the immediate manager can schedule vacation for another employee."  
