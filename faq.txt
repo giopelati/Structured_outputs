@@ -1,126 +1,341 @@
-**Q: "How do I enable automatic updates?"**  
-A: "*Android*  
-SEMPRE JBS was developed to provide faster information and convenience in your daily life. Therefore, when updates are available, you don’t need to worry about checking for the new version. The app will notify you about the new version and direct you to the Google Play Store. It’s easy and quick. Don’t worry 😊  
+[Aplicativo]
+Q: "Como faço para deixar as atualizações de forma automática?"
+A: "*Anroid*
+O SEMPRE JBS foi desenvolvido para trazer maior agilidade nas informações e praticidade no seu dia a dia. Por isso, quando houver atualizações, você não precisa se preocupar em entrar no sistema e buscar essa nova versão. O aplicativo já vai te avisar que tem uma nova versão e te levar para a google store. É fácil e rápido. Não se preocupe 😊
 
-*iOS*  
-If you want your phone to automatically update to the latest versions, simply:  
-1. Go to “Settings”;  
-2. Click on “Apple Store”;  
-3. Select the “Automatic Updates” option."  
+*IOS*
+Caso você queira que seu celular atualize sozinho para as próximas versões, basta:
+    1.      Clicar em “Ajustes”;
+    2.      Clicar em “Apple store”;
+    3.      Selecionar a opção de “Atualização automática”."
 
----
+Q: "Como faço para deixar de forma automática a atualização do Sempre JBS em meu aparelho Android?"
+A: "O SEMPRE JBS foi desenvolvido para trazer maior agilidade nas informações e praticidade no seu dia a dia. Por isso, quando houver atualizações, você não precisa se preocupar em entrar no sistema e buscar essa nova versão. O aplicativo já vai te avisar que tem uma nova versão e te levar para a google store. É fácil e rápido. Não se preocupe 😊"
 
-**Q: "How do I install Sempre JBS?"**  
-A: "*Android*  
-Here is the link to install on Android: [https://play.google.com/store/apps/details?id=br.com.jbs.rh.comvoce&hl=pt_BR&gl=US](https://play.google.com/store/apps/details?id=br.com.jbs.rh.comvoce&hl=pt_BR&gl=US)  
+Q: "Como faço para deixar de forma automática a atualização do Sempre JBS em meu aparelho IOS?"
+A: "Caso você queira que seu celular atualize sozinho para as próximas versões, basta:
+    1.      Clicar em “Ajustes”;
+    2.      Clicar em “Apple store”;
+    3.      Selecionar a opção de “Atualização automática”."
 
-*iOS*  
-Here is the link to install on iOS: [botm.cc/l/8eQNDoj](botm.cc/l/8eQNDoj)"  
+Q: "Como instalar o Sempre JBS?"
+A: "*Android*
+Segue o link para a instalação em android: https://play.google.com/store/apps/details?id=br.com.jbs.rh.comvoce&hl=pt_BR&gl=US
 
----
+*IOS*
+Segue o link para a instalação em ios: botm.cc/l/8eQNDoj"
 
-**Q: "I want to update my app. How do I do that?"**  
-A: "*Android*  
-To check if there are any pending updates for your app on an Android device, visit the link:  
+Q: "Como instalar o Sempre JBS em meu dispositivo Android?"
+A: "Fico muito feliz que você está interessado em baixar o aplicativo! Segue o link para a instalação em android: https://play.google.com/store/apps/details?id=br.com.jbs.rh.comvoce&hl=pt_BR&gl=US"
 
-[https://play.google.com/store/apps/details?id=br.com.jbs.rh.comvoce&hl=pt_BR](https://play.google.com/store/apps/details?id=br.com.jbs.rh.comvoce&hl=pt_BR)  
+Q: "Como instalar o Sempre JBS em meu dispositivo IOS?"
+A: "Fico muito feliz que você está interessado em baixar o aplicativo! Segue o link para a instalação em ios: botm.cc/l/8eQNDoj"
 
-If you see the "Update" button, click on it.  
+Q: "Quero atualizar meu aplicativo. Como faço?"
+A: "*Android*
+Para verificar se há atualizações pendentes do seu aplicativo em um dispositivo Android, entre no link:
 
-If it says "Open", your app is already up-to-date and ready to use! 😀  
+https://play.google.com/store/apps/details?id=br.com.jbs.rh.comvoce&hl=pt_BR
 
-*iOS*  
-To update your app on an iOS device, follow these steps:  
-1. Go to the Apple Store;  
-2. Click on your profile picture in the top right corner;  
-3. Find the SEMPRE JBS app available for update.  
+Caso apareça o botão "Atualizar", clique nele.
 
-Done! Now just click on “Update” to stay connected and follow all the news."  
+Caso esteja escrito "Abrir", seu aplicativo já está na última versão e pronto para ser usado! 😀
 
----
+*IOS* 
+Para atualizar seu aplicativo em um dispositivo IOS basta seguir este passo a passo:
+    1.      Vá na Apple Store;
+    2.      Clique no ícone da sua foto, no canto direito superior;
+    3.      Encontre o aplicativo do SEMPRE JBS que está disponível para atualização.
+Pronto! Agora basta clicar em “Atualizar” para você estar sempre ligado conosco e acompanhar todas as novidades."
 
-**Q: "I forgot my login and password. What should I do?"**  
-A: "There are two ways to log in:  
+Q: "Quero atualizar meu aplicativo em meu dispositivo Android."
+A: "Para verificar se há atualizações para o seu aplicativo, entre no link:
 
-*CPF (Tax ID)*  
-If you want to log in using your CPF, remember that on your first access, you need to set a personal password by clicking on “First Access.” You will be asked security questions before setting a password. If you forget your password later, you will need to answer the same security questions to reset it.  
+https://play.google.com/store/apps/details?id=br.com.jbs.rh.comvoce&hl=pt_BR
 
-*Network User*  
-If you wish to log in using your network user, remember that you must enter your network login and password (the same one you use to access JBS computers).  
+Caso apareça o botão "Atualizar", clique nele.
 
-Please make sure you are entering the correct login and password. If you don’t remember your network password, don’t worry! You can reset it through the GCA, available on the intranet."  
+Caso esteja escrito "Abrir", seu aplicativo já está na última versão e pronto para ser usado! 😀"
 
----
+Q: "Quero atualizar meu aplicativo em meu dispositivo IOS."
+A: "É super simples! Para atualizar seu aplicativo basta seguir este passo a passo:
+    1.      Vá na Apple Store;
+    2.      Clique no ícone da sua foto, no canto direito superior;
+    3.      Encontre o aplicativo do SEMPRE JBS que está disponível para atualização.
+Pronto! Agora basta clicar em “Atualizar” para você estar sempre ligado conosco e acompanhar todas as novidades."
 
-**Q: "I forgot my login and password when using CPF. What should I do?"**  
-A: "If you want to log in using CPF, remember that on your first access, you need to set a personal password by clicking on “First Access.” You will be asked security questions before setting a password. If you forget it later, you will need to answer the same security questions to reset it."  
 
----
+[Login no aplicativo]
+Q: "Eu esqueci o login e a senha. O que devo fazer?"
+A: "Há duas maneiras de fazer login:
 
-**Q: "I forgot my login and password when using the network user. What should I do?"**  
-A: "If you wish to log in using your network user, remember that you must enter your network login and password (the same one you use to access JBS computers)."  
+    *CPF*
+    Se deseja fazer login com o CPF, lembre-se que no seu primeiro acesso, você deve definir uma senha de uso pessoal, clicando em “Primeiro acesso”. Você deverá responder perguntas de segurança antes de definir uma senha. Se em algum momento você esquecer e precisar redefini-la, você deverá responder essas mesmas perguntas.
 
----
+    *Usuário de rede*
+    Se você deseja entrar com usuário de rede, lembre-se que na tela você deve informar seu login e senha de rede (a mesma que você utiliza para logar no computador JBS). 
 
-**Q: "I forgot my security questions. What should I do?"**  
-A: "Don’t worry! You need to contact your unit's HR to clear your access data. After that, you can perform the first access again, setting a new password and new security questions."  
+    Por favor, verifique se está digitando corretamente o login e a senha. Caso não lembre da sua senha de rede, não se preocupe! Você pode redefini-la através do GCA, disponível na intranet."
 
----
+Q: "Eu esqueci o login e a senha, entrando por CPF. O que devo fazer?"
+A: "Se deseja fazer login com o CPF, lembre-se que no seu primeiro acesso, você deve definir uma senha de uso pessoal, clicando em “Primeiro acesso”. Você deverá responder perguntas de segurança antes de definir uma senha. Se em algum momento você esquecer e precisar redefini-la, você deverá responder essas mesmas perguntas."
 
-**Q: "How do I recover my password?"**  
-A: "Don’t worry, it’s super easy!  
+Q: "Eu esqueci o login e a senha, entrando por usuário de rede. O que devo fazer?"
+A: "Se você deseja entrar com usuário de rede, lembre-se que na tela você deve informar seu login e senha de rede (a mesma que você utiliza para logar no computador JBS)."
 
-When you first accessed the app, you registered a password and some security questions. To recover your password, simply click on “Forgot my password” on the main page and answer the security questions you set during your first access. Done! Now just set a new password.  
+Q: "Esqueci minhas perguntas de segurança. O que devo fazer?"
+A: "Não se preocupe! Você precisa procurar o RH da sua unidade para realizar uma limpeza de acesso. Então, você poderá fazer o seu primeiro acesso novamente, definindo nova senha e perguntas de segurança."
 
-But if you forgot your security questions, just ask your HR unit to clear your data so you can perform the first access again and set a new password."  
+Q: "Como faço para recuperar minha senha?"
+A: "Não se preocupe, é facinho de recuperar!
 
----
+    Lembra de que quando você fez o seu primeiro acesso, foi cadastrado uma senha e algumas perguntas de segurança. Para recuperar sua senha, basta clicar em “Esqueci minha senha” na página inicial e você deverá responder as perguntas de segurança que você definiu lá no seu primeiro acesso. Pronto! Agora é só definir uma nova senha.
 
-**Q: "My token isn’t working. What should I do?"**  
-A: "This issue can occur due to a few reasons:  
-- The collaborator's phone time is set manually, affecting the token in the app. To check, open settings and look for Date and Time, ensure it’s set to automatic (must be synchronized with Brasília time);  
-- The collaborator's internet connection is weak. Check or try connecting to another network;  
-- The collaborator is on or recently returned from vacation (employees on vacation cannot access SEMPRE EDUCA)."  
+    Mas caso tenha esquecido suas perguntas de segurança, basta pedir para sua unidade de RH limpar seus dados para que você possar realizar o primeiro acesso novamente e definir uma nova senha."
 
----
+Q: "Meu token não está funcionando. O que devo fazer?"
+A: "Esse problema pode acontecer por alguns motivos:
+    ·              O horário do celular do(a) colaborador(a) está definido manualmente, afetando o token dentro do aplicativo. Para verificar, abra as configurações e procure pela opção de Data e Hora, veja se está definido manual ou automaticamente (precisa estar sincronizado com o horário de Brasília);
+    ·              A conexão de internet do(a) colaborador(a) está fraca, verifique ou tente conectar em outra rede
+    ·               O colaborador está ou voltou de férias recentemente (os colaboradores que estão em período de férias não podem acessar o Sempre Educa)."
 
-**Q: "How do I perform the first access on the app?"**  
-A: "If it’s your first access and you don’t have a network login, don’t worry! You can easily set a password by clicking on “First Access.” After that, every time you log in, just enter your CPF and the password you created.  
+Q: "Como fazer o meu primeiro acesso no app?"
+A: "Se é o seu primeiro acesso e você não tem login de rede, não se preocupe! Você pode definir facilmente uma senha clicando em “Primeiro acesso”. Depois disso, toda  vez que você fizer login no aplicativo, basta você informar seu CPF e a sua senha cadastrada. 
 
-Attention! If you forget your access password in the future, you can recover it with the security questions, so answer truthfully or in a way that you can easily remember."  
+Atenção! Caso você esqueça sua senha de acesso no futuro, você poderá recuperá-la com as perguntas de segurança, então responda verdadeiramente ou de forma que você lembre facilmente de sua resposta."
 
----
+Q: "Fui bloqueada ao fazer o login no aplicativo do Sempre JBS, o que devo fazer?"
+A: "Caso utilize login de rede, aguarde 30 minutos e tente efetuar novamente o login de rede e senha. Caso não lembre sua senha, procure seu TI local para orientação
 
-**Q: "I was locked out while trying to log in to the Sempre JBS app. What should I do?"**  
-A: "If you are using a network login, wait 30 minutes and try logging in again. If you don’t remember your password, contact your local IT for guidance.  
+Caso utilize login por CPF, aguarde por 30 minutos, desinstale o app e instale novamente pela Playstore ou pelos QRCodes em anexo. Após a instalação, procure o RH de sua unidade para solicitar a limpeza de seu metadados, isso irá permitir que realize seu primeiro acesso novamente. O sucesso do primeiro acesso ou irá indicar que o colaborador possui login de rede "ver cenário 1" ou irá apresentar 5 perguntas para que possa criar sua senha de acesso do app."
 
-If you are logging in with CPF, wait 30 minutes, uninstall the app, and reinstall it from the Play Store or using the QR codes attached. After installation, contact your unit's HR to request the clearing of your metadata, allowing you to perform the first access again. Successfully accessing will either confirm a network login or present 5 questions to create your app access password."  
+Q: "Está dando erro 203, como solucionar?"
+A: "Quando o erro 203 aparecer, siga as instruções a seguir:
 
----
+- Desinstale e instale o aplicativo
+- Ao abrir, clique em primeiro acesso e preencha com seu CPF e matrícula
 
-**Q: "I'm getting error 203. How do I solve it?"**  
-A: "When error 203 appears, follow these steps:  
-- Uninstall and reinstall the app;  
-- Upon opening, click on “First Access” and enter your CPF and registration number.  
+Caso o erro persista, contate sua unidade de RH."
 
-If the error persists, contact your unit's HR."  
+Q: "Como resolver o erro 202?"
+A: "O erro 202 é referente a sua autenticação no sistema de dados da JBS, ou seja, houve uma falha ao realizá-la. Por favor, tente novamente após 24 horas."
 
----
+Q: "O que é login de rede?"
+A: "Login de rede é um login utilizado para entrar nos sistemas da empresa, por exemplo o Citrix e acesso dos computadores, normalmente utilizado por colaboradores do corporativo."
 
-**Q: "How do I resolve error 202?"**  
-A: "Error 202 is related to authentication in JBS's data system, meaning there was a failure during the process. Please try again after 24 hours."  
+Q: "Como faço para saber meu login?"
+A: "Caso não lembre de seu login de rede, consulte o RH da sua unidade para recuperá-lo."
 
----
+[Sempre Educa]
+Q: "Meu curso não aparece. Como faz para encontrá-lo?"
+A: "Entendemos que você esteja preocupado(a) de não conseguir visualizar seus cursos no SEMPRE EDUCA, vou esclarecer por que isso pode acontecer: 
 
-**Q: "What is network login?"**  
-A: "Network login is used to access company systems, such as Citrix and computer access, usually used by corporate employees."  
+O SEMPRE EDUCA disponibiliza cursos de acordo com o perfil definido pelos administradores da plataforma. Podem existir algumas razões pelas quais você não visualiza um curso.  
 
----
+Se você é um colaborador da JBS e deveria estar visualizando um curso já comunicado pelo seu RH, não se preocupe, estou aqui para ajudar! Por favor continue o atendimento neste canal para abrir um chamado com a nossa equipe de suporte."
 
-**Q: "How do I find out my login?"**  
-A: "If you don’t remember your network login, contact your unit's HR to retrieve it."  
+Q: "Como acesso a plataforma do Sempre Educa?"
+A: "Para acessar a nossa plataforma de educação, as opções são diferentes dependendo do aparelho em que você deseja entrar.  
 
----
+Caso você faça login pelo aplicativo, não será necessário informar usuário ou senha, pois uma vez acessando o SEMPRE JBS, seu acesso será direcionado para o SEMPRE EDUCA.  
 
-**Q: "Who is responsible for scheduling my vacation?"**  
-A: "Only employees using network login can schedule their own vacation. Otherwise, HR and the immediate manager can schedule vacation for another employee."  
+Caso você queira acessar pelo computador, você deverá fazer o login informando seu CPF. A próxima tela pedirá um “token”. Você encontra este token no seu aplicativo SEMPRE JBS, clicando em “Meu perfil” no canto superior direito da tela e, na sequência, clicando em “Meu token”.  
+
+Atenção! Este código se renova a cada minuto."
+
+Q: "Meu farol está com pendências"
+A: "Caso não faça parte das pendências anunciadas, verifique: 
+O relatório que recebeu é atualizado, extraído no mesmo dia da sua consulta.
+O certificado do curso pode ser emitido. Caso esteja tudo coreto, comunique sua unidade de RH que há uma divergência e eles poderão atuar na mesma."
+
+Q: "O que é o Sempre Educa?"
+A: "A plataforma educacional da JBS, acessível a 100% dos colaboradores, com conteúdo e formações voltadas especialmente para cada carreira."
+
+Q: "Como gero os meus certificados?"
+A: "Para gerar seu certificado é muito fácil! Ao finalizar o conteúdo de um curso e avaliá-lo, você poderá emitir o seu certificado.  
+
+Caso queira consultar os seus cursos concluídos e emitir um certificado, procure “Meus cursos concluídos”, disponível na tela inicial do SEMPRE EDUCA. Lá você verá todos os seus cursos em andamento e finalizados."
+
+Q: "Como acesso os meus certificados?"
+A: "Caso queira consultar os seus cursos concluídos e emitir um certificado, procure “Meus cursos concluídos”, disponível na tela inicial do SEMPRE EDUCA. Lá você verá todos os seus cursos em andamento e finalizados."
+
+Q: "Conclui o curso e deu erro. O que posso fazer para resolver?"
+A: "Não se preocupe! Este é um problema que pode acontecer em alguns navegadores. Por favor, tente recarregar a página do SEMPRE EDUCA ou abra o site numa guia anônima. Se ainda assim o problema persistir, continue o atendimento neste canal para abrir um chamado com a nossa equipe de suporte."
+
+Q: "Meu curso não aparece. O que fazer?"
+A: "Entendemos que você esteja preocupado(a) de não conseguir visualizar seus cursos no SEMPRE EDUCA, vou esclarecer por que isso pode acontecer: 
+
+O SEMPRE EDUCA disponibiliza cursos de acordo com o perfil definido pelos administradores da plataforma. Podem existir algumas razões pelas quais você não visualiza um curso.  
+
+Se você é um colaborador da JBS e deveria estar visualizando um curso já comunicado pelo seu RH, não se preocupe, estou aqui para ajudar! Por favor continue o atendimento neste canal para abrir um chamado com a nossa equipe de suporte."
+
+[Genéricos]
+Q: "Qual a versão atual do aplicativo?"
+A: "Atualmente estamos na versão 1.4.51."
+
+Q: "O teclado não está aparecendo. O que fazer?"
+A: "Para resolver esse problema, desinstale e instale seu aplicativo para conseguir voltar ao teclado padrão."
+
+[Sempre Cuida]
+Q: "Quais as pessoas que o Sempre Cuida cobre?"
+A: "Boa notícia! O programa SEMPRE CUIDA oferece serviços de telemedicina e telepsicologia completos, gratuitos e muito práticos e está disponível para todos os colaboradores da JBS e seus dependentes de primeiro grau, como cônjuges/companheiros e filhos."
+
+Q: "O que é Sempre Cuida?"
+A: " O Sempre Cuida é o que concentra todas as ações, campanhas e programas de saúde que são realizadas pela área de Saúde e Bem-estar da JBS. Este espaço é dedicado ao cuidado integral da nossa gente, hábitos saudáveis e temas relacionados à prevenção de doenças. O objetivo é incentivar  que cada um de nós seja o protagonista da própria saúde, tanto física quanto mental.
+
+Para mais informações sobre o aplicativo ou o programa, ligue para a central de atendimento: 0800-941-6341."
+
+Q: "Qual o número do suporte do Sempre Cuida?"
+A: "Para dúvidas sobre o aplicativo ou o programa, ligue para a central de atendimento: 0800-941-6341."
+
+Q: "Como acessar o Sempre Cuida?"
+A: "Para ter acesso a diversas especialidades médicas disponíveis no SEMPRE CUIDA siga estes passos: 
+1.      Abra o aplicativo do SEMPRE JBS e no menu principal, clique em SEMPRE CUIDA.  
+2.      Você será direcionado ao aplicativo da Teladoc.  
+3.      No aplicativo, clique em “Cadastrar”;  
+4.      Preencha com seus dados pessoais e crie uma senha. Você pode entrar com seu e-mail pessoal ou profissional.
+5.      Preencha os dados e, na opção, “empresa pagadora”, selecione JBS.  
+
+Pronto! Agora você pode aproveitar todos os benefícios."
+
+[Férias]
+
+Q: "Quem é responsável por agendar minhas férias?"
+A: "Somente os colaboradores que utilizam login de rede conseguem marcar as próprias férias, no restante, o RH e o gestor imediato podem marcar as férias de outro colaborador."
+
+Q: "Por que não posso marcar minhas férias com o acesso por CPF?"
+A: "Somente os colaboradores que utilizam login de rede conseguem se conectar ao sistema de férias e marcá-las no aplicativo."
+
+Q: "Como que acessa meu recibo de férias?"
+A: "O recibo de férias é liberado, no mínimo, 4 dias antes do início das férias."
+
+Q: "Desejo adiantar os meus dias de trabalho"
+A: "Qualquer dúvida sobre férias deve ser tirada diretamente com o RH da sua unidade."
+
+Q: "Eu tenho que assinar o aviso das férias?"
+A: "O aviso é disponibilizado para assinatura digital 45 dias antes do início do período de férias e ficará disponível para assinatura até os 30 dias que antecedem as suas férias."
+
+Q: "Não assinei o aviso das férias"
+A: "Sem stress! Em caso de não assinar o aviso antes dos 30 dias, o colaborador deve procurar o RH da sua unidade para assinar o aviso fisicamente."
+
+Q: "Como fracionar as férias?"
+A: "São elegíveis ao fracionamento de férias os colaboradores que não realizam marcação de ponto nos termos do PROC- PRESI – RH – 0077 – Procedimento do ponto e os colaboradores detentores de cargos administrativos, sujeitos ou não a controle de jornada."
+
+Q: "Minhas férias foram recusadas e agora?"
+A: "A aprovação ou não das suas férias são feitas pelo seu líder imediato. Entendo que suas férias são importantes para você, caso aconteça a recusa do seu pedido de férias, não se preocupe! Procure seu líder para entender os motivos e juntos, vocês podem discutir alternativas e reagendar suas férias para um período mais adequado."
+
+Q: "Como agendar o recesso da minha equipe?"
+A: "Para aprovar ou agendar as férias da sua equipe, entre em “Sempre Gestor”. Neste módulo, você poderá agendar e aprovar as férias da sua equipe. Lembre-se que o colaborador pode fracionar em até 3 períodos suas férias e existem algumas possibilidades de fracionamento disponíveis no aplicativo, a depender da função do colaborador."
+
+Q: "Como agendar o recesso da minha equipe?"
+A: "Para aprovar ou agendar as férias da sua equipe, entre em “Sempre Gestor”. Neste módulo, você poderá agendar e aprovar as férias da sua equipe. Lembre-se que o colaborador pode fracionar em até 3 períodos suas férias e existem algumas possibilidades de fracionamento disponíveis no aplicativo, a depender da função do colaborador."
+
+Q: "Como faz para tirar férias?"
+A: "Se você possui usuário, senha de rede e é elegível a agendar suas próprias férias, você deve acessar o SEMPRE JBS, módulo de SEMPRE FACILIDADES (ícone do relógio) e, em seguida, clicar em “Minhas férias”.  
+
+Você terá diversas opções de fracionamento de férias para escolher e alinhar com seu líder. Comece selecionando o período de fracionamento, depois selecione as datas de cada período.  
+
+Para continuar, você precisará escolher se deseja antecipar seu 13º salário, clicando em “Sim” ou “Não”.  
+
+Quando estiver pronto, clique em “Salvar”. Prontinho! Seu pedido de férias irá para seu líder aprovar.  
+
+Mas, atenção: caso você queira editar qualquer informação depois da aprovação do seu líder, precisará procurar o RH da unidade/negócio para te apoiar.
+
+Caso você não pussui o usuário e senha de rede, não se preocupe! Para os colaboradores que acessam com CPF e senha, devem combinar com seu líder direto ou unidade de RH, o período de férias para que ele insira em sistema. "
+
+[Holerite]
+
+Q: "Meu holerite tá indisponível"
+A: "Não se preocupe! Nós entendemos que receber seus holerites é importante para você.  
+
+Os holerites são disponibilizados de acordo com as datas de pagamento. Assim que o holerite estiver disponível você receberá uma notificação do aplicativo, desde que tenha ativado essa opção nas suas configurações. Isso torna o processo mais simples para você!  
+
+Caso isso não aconteça, procure o seu líder imediato ou o RH da sua unidade/negócio para verificar e tirar suas dúvidas."
+
+Q: "Sai do aplicativo quando eu tento abrir meu holerite"
+A: "Esse tipo de erro ocorre quando definimos um aplicativo padrão para abrir PDF’s e os holerites acabam entrando nesse meio.  
+
+Mas não se preocupe! Eu te ensino passo a passo de como resolver esse problema: 
+1.      Abra qualquer arquivo PDF; 
+2.      Verifique o nome do aplicativo usado; 
+3.      Acesse as configurações do celular; 
+4.      Toque em “Aplicativos”; 
+5.      Procure pelo app respectivo e toque para ver mais informações; 
+6.      Selecione a aba “Definir como padrão”; 
+7.      Toque em “Apagar padrões”."
+
+Q: "O que é contracheque?"
+A: "Holerite ou Recibo de vencimento também conhecido como contracheque, é um demonstrativo impresso de vencimentos de um trabalhador pertencente ao setor público ou privado. Esse é um dos documentos mais importantes disponibilizados por empresa. O holerite pode servir como comprovante de renda para o colaborador."
+
+Q: "Não sei minha matrícula"
+A: " Por favor, entre em contato com o seu RH para informar sua matrícula."
+
+Q: "Holerite é o mesmo que contracheque?"
+A: "Sim, são somente nomes diferentes."
+
+Q: "Qual a diferença de contracheque e o informe de rendimento?"
+A: "O contracheque ou holerite, é um tipo de informe de rendimento mensal e o informe de rendimento informa todos os valores recebidos pelo colaborador no período de 1 ano."
+
+Q: "Não consigo acessar meu holerite"
+A: "Se você atualmente trabalha na empresa, siga os seguintes passos:
+1.      Na tela inicial, acesse o “Sempre Facilidades” (desenho de um relógio) 
+2.      Clique em “Meus holerites” (desenho de dinheiro) 
+
+Pronto! Agora você encontrará todos os seus holerites disponíveis, seja de pagamento de salário mensal, 13º ou outros pagamentos. 
+ 
+Se você quiser baixar o documento, siga estes passos: 
+1.      Na tela inicial, acesse o “Sempre Facilidades” (desenho de um relógio) 
+2.      Clique em “Meus holerites” (desenho de dinheiro) 
+3.      Clique no mês desejado 
+4.      Clique no símbolo de download (símbolo de seta para baixo)
+
+Caso você tenha saído não consegue mais entrar no aplicativo, pois ao ser desligado, seu login expira. Somente sua antiga unidade de RH tem acesso aos seus documentos (holerites e informes), por favor entre em contato com eles."
+
+[Sempre Pesquisa]
+
+Q: "Como acesso o Sempre Pesquisa?"
+A: "Para acessar a nossa plataforma de pesquisa, siga as instruções de acordo com o dispositivo que desejar:
+
+Pelo Aplicativo Sempre:
+Não é necessário informar seu usuário. Ao acessar o aplicativo SEMPRE JBS, você será automaticamente direcionado para o SEMPRE PESQUISA.
+
+Pelo Computador:
+Faça login utilizando apenas o seu CPF."
+
+Q: "Quais pessoas possuem acesso ao Sempre Pesquisa?"
+A: "Ótimas notícias! Atualmente o SEMPRE PESQUISA está disponível para 100% dos colaboradores da JBS Brasil."
+
+Q: "Quem pode responder a Pesquisa de Clima?"
+A: "A Pesquisa de Clima é destinada à todos os colaboradores da JBS que ingressaram na companhia até o dia 13/8/2024."
+
+Q: "Quando começa e quando termina a Pesquisa de Clima?"
+A: "A Pesquisa de Clima JBS 2024 ficará disponível do dia 14/8/2024 à 30/9/2024."
+
+Q: "Responder pesquisa"
+A: "Depois de fazer o login você deverá clicar em RESPONDER.
+Você poderá responder uma única vez.
+Todas as respostas são sigilosas e protegidas pela LGPD - Lei Geral de Proteção de Dados Pessoais."
+
+Q: "O que é o Sempre Pesquisa"
+A: "O Sempre Pesquisa é a plataforma que nos permite criar formulários que alcançam toda a empresa."
+
+[Informe de rendimento]
+
+Q: "Onde meu informe de rendimento fica disponível?"
+A: "Consultar seu informe de rendimento é muito fácil! Siga estas instruções:
+1.      Clique no ícone do SEMPRE FACILIDADES (desenho de relógio) 
+2.      Clique em “Meus informes de rendimento” 
+
+Com apenas esses passos, você pode acessar seus informes de rendimento a qualquer momento!"
+
+Q: "Quando meu informe de rendimento fica disponível?"
+A: "O informe de rendimento é disponibilizado anualmente no aplicativo da data estabelecida pela equipe de Administração de Pessoas. Fique atento as campanhas de comunicação com as respectivas datas a cada ano."
+
+Q: "O que é o informe de rendimento?"
+A: " Um informe de rendimentos serve para informar todos os valores recebidos pelo colaborador no período de 1 ano."
+
+Q: "Para que utiliza o informe de rendimento"
+A: "O informe de rendimento é um documento que garante a correta declaração de valores para o imposto de renda."
+
+Q: "Como faço meu imposto de renda?"
+A: "O imposto de renda é realizado por conta própria do colaborador"
