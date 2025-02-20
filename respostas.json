@@ -1,0 +1,82 @@
+[
+    {
+        "Question": "Onde encontro o link para instalar o Sempre JBS?",
+        "Answer": "*Android*\nSegue o link para a instalação em android: https://play.google.com/store/apps/details?id=br.com.jbs.rh.comvoce&hl=pt_BR&gl=US\n\n*IOS*\nSegue o link para a instalação em ios: botm.cc/l/8eQNDoj"
+    },
+    {
+        "Question": "O aplicativo está disponível para download na Google Play Store?",
+        "Answer": "Sim, o aplicativo está disponível para download na Google Play Store. Você pode acessá-lo através do link:\n\nhttps://play.google.com/store/apps/details?id=br.com.jbs.rh.comvoce&hl=pt_BR"
+    },
+    {
+        "Question": "Preciso de algum requisito mínimo para instalar o Sempre JBS no meu dispositivo?",
+        "Answer": "Não localizei essa informação no documento disponível. Por favor, entre em contato com o RH para mais detalhes."
+    },
+    {
+        "Question": "O que fazer se eu esquecer minha senha e perguntas de segurança?",
+        "Answer": "\"Não se preocupe! Você precisa procurar o RH da sua unidade para realizar uma limpeza de acesso. Então, você poderá fazer o seu primeiro acesso novamente, definindo nova senha e perguntas de segurança.\""
+    },
+    {
+        "Question": "Como redefinir minha senha de acesso ao Sempre JBS?",
+        "Answer": "Não localizei essa informação no documento disponível. Por favor, entre em contato com o RH para mais detalhes."
+    },
+    {
+        "Question": "Qual a diferença entre login de rede e login com CPF?",
+        "Answer": "\"Há duas maneiras de fazer login:\n\n*CPF*\nSe deseja fazer login com o CPF, lembre-se que no seu primeiro acesso, você deve definir uma senha de uso pessoal, clicando em “Primeiro acesso”. Você deverá responder perguntas de segurança antes de definir uma senha. Se em algum momento você esquecer e precisar redefini-la, você deverá responder essas mesmas perguntas.\n\n*Usuário de rede*\nSe você deseja entrar com usuário de rede, lembre-se que na tela você deve informar seu login e senha de rede (a mesma que você utiliza para logar no computador JBS).\""
+    },
+    {
+        "Question": "E se o sistema mostrar \"login ou senha incorretos\"?",
+        "Answer": "\"Por favor, verifique se está digitando corretamente o login e a senha. Caso esteja utilizando o CPF, certifique-se de que definiu uma senha de uso pessoal no seu primeiro acesso e responda às perguntas de segurança para redefini-la, se necessário. Se estiver utilizando o usuário de rede, informe seu login e senha de rede (a mesma que utiliza para logar no computador JBS). Caso não lembre da sua senha de rede, você pode redefini-la através do GCA, disponível na intranet.\""
+    },
+    {
+        "Question": "O que significa o erro 202 ou 203 no Sempre JBS?",
+        "Answer": "O erro 202 é referente à sua autenticação no sistema de dados da JBS, ou seja, houve uma falha ao realizá-la. Por favor, tente novamente após 24 horas.\n\nNão localizei essa informação no documento disponível sobre o erro 203. Por favor, entre em contato com o RH para mais detalhes."
+    },
+    {
+        "Question": "Por que meu token não está funcionando?",
+        "Answer": "Esse problema pode acontecer por alguns motivos:\n- O horário do seu celular está definido manualmente, afetando o token dentro do aplicativo. Para verificar, abra as configurações e procure pela opção de Data e Hora, veja se está definido manual ou automaticamente (precisa estar sincronizado com o horário de Brasília);\n- A conexão de internet está fraca, verifique ou tente conectar em outra rede;\n- Você está ou voltou de férias recentemente (os colaboradores que estão em período de férias não podem acessar o Sempre Educa)."
+    },
+    {
+        "Question": "Como corrigir problemas com o teclado que não aparece no aplicativo?",
+        "Answer": "\"Para resolver esse problema, desinstale e instale seu aplicativo para conseguir voltar ao teclado padrão.\""
+    },
+    {
+        "Question": "Por que não consigo visualizar meus cursos no Sempre Educa?",
+        "Answer": "Entendemos que você esteja preocupado(a) de não conseguir visualizar seus cursos no SEMPRE EDUCA, vou esclarecer por que isso pode acontecer:\n\nO SEMPRE EDUCA disponibiliza cursos de acordo com o perfil definido pelos administradores da plataforma. Podem existir algumas razões pelas quais você não visualiza um curso.\n\nSe você é um colaborador da JBS e deveria estar visualizando um curso já comunicado pelo seu RH, não se preocupe, estou aqui para ajudar! Por favor continue o atendimento neste canal para abrir um chamado com a nossa equipe de suporte."
+    },
+    {
+        "Question": "Como gerar ou acessar meus certificados no Sempre Educa?",
+        "Answer": "Para gerar seu certificado é muito fácil! Ao finalizar o conteúdo de um curso e avaliá-lo, você poderá emitir o seu certificado.  \n\nCaso queira consultar os seus cursos concluídos e emitir um certificado, procure “Meus cursos concluídos”, disponível na tela inicial do SEMPRE EDUCA. Lá você verá todos os seus cursos em andamento e finalizados."
+    },
+    {
+        "Question": "O que fazer se um curso concluído não aparece como finalizado?",
+        "Answer": "Não localizei essa informação no documento disponível. Por favor, entre em contato com o RH para mais detalhes."
+    },
+    {
+        "Question": "Quem pode usar os serviços do Sempre Cuida?",
+        "Answer": "Boa notícia! O programa SEMPRE CUIDA oferece serviços de telemedicina e telepsicologia completos, gratuitos e muito práticos e está disponível para todos os colaboradores da JBS e seus dependentes de primeiro grau, como cônjuges/companheiros e filhos."
+    },
+    {
+        "Question": "Como faço para acessar o programa Sempre Cuida pelo aplicativo?",
+        "Answer": "Não localizei essa informação no documento disponível. Por favor, entre em contato com o RH para mais detalhes."
+    },
+    {
+        "Question": "Existe suporte para o Sempre Cuida em caso de dúvidas?",
+        "Answer": "Para dúvidas sobre o aplicativo ou o programa, ligue para a central de atendimento: 0800-941-6341."
+    },
+    {
+        "Question": "Quais são as funcionalidades principais do aplicativo?",
+        "Answer": "Não localizei essa informação no documento disponível. Por favor, entre em contato com o RH para mais detalhes."
+    },
+    {
+        "Question": "O que fazer se o aplicativo estiver lento ou travando?",
+        "Answer": "Não localizei essa informação no documento disponível. Por favor, entre em contato com o RH para mais detalhes."
+    },
+    {
+        "Question": "Preciso usar algum navegador específico para acessar o Sempre Educa?",
+        "Answer": "Não localizei essa informação no documento disponível. Por favor, entre em contato com o RH para mais detalhes."
+    },
+    {
+        "Question": "O que é a plataforma Teladoc no Sempre Cuida?",
+        "Answer": "Não localizei essa informação no documento disponível. Por favor, entre em contato com o RH para mais detalhes."
+    }
+]
